@@ -8,5 +8,5 @@ print ("jagadeesh")
 # print (set())
 a = set ()
 print (a)
-a = {0}
-print (a)
+a = {}
+print (type(a))
